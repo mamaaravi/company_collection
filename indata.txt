@@ -1,0 +1,5 @@
+P Daun 3 40 100 7
+M Prytula 40 2 10 62
+M ZE 1 10000 999999 666
+P Urod 4 50 300 6 
+P Hoshko 100 69 999 2
